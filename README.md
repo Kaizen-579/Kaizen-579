@@ -26,6 +26,10 @@ Designed a functional PCB in KiCad for an external organisation. Details confide
 *MES4 Internship* *(Course-based)*
 Worked with Manufacturing Execution System (MES4) software as part of a structured industrial automation internship — exposure to production monitoring, shop floor data, and manufacturing workflows.
 
+*IOT internship*
+Worked on real-time ANC using signal processing techniques using ESP32; then switching to Python based code for latency.
+
+
 # Projects
 
 | [Real-Time PHM System for Industrial Motor](https://github.com/Kaizen-579/Real-time-prognostics-and-health-monitoring-system-for-industrial-motor) | Monitors motor health in real time, detects anomalies, and predicts Remaining Useful Life using ML | Python, Simulink, Isolation Forest, UDP |
