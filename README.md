@@ -20,8 +20,8 @@ I build systems that sit at the intersection of hardware and software — sensor
 
 # Experience
 
-*PCB Design — Organisation Project*(NDA)
-Designed a functional PCB in KiCad for an external organisation. Details confidential.
+*PCB Design — Organisation Project*
+Designed a functional PCB in KiCad for an external organisation. 4-layer mixed-signal PCB — power regulation + sensor interface. Details confidential.
 
 *MES4 Internship* *(Course-based)*
 Worked with Manufacturing Execution System (MES4) software as part of a structured industrial automation internship — exposure to production monitoring, shop floor data, and manufacturing workflows.
